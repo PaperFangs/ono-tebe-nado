@@ -1,1 +1,28 @@
-/* место для вашего кода */
+.header{
+    display: flex;
+    justify-content:space-between;
+    padding: 51px 92px 49px;
+
+
+}
+.nav-menu{
+    display: flex;
+    list-style: circle;
+    row-gap: 60px;
+}
+
+.main-page{
+    text-decoration: none;
+}
+
+.title-logo{
+    width: 148px;
+    height: 105px;
+    flex-shrink: 0;
+}
+
+.address{
+    text-decoration: none;
+}
+
+
