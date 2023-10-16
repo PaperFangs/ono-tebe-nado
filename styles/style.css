@@ -25,4 +25,22 @@
     text-decoration: none;
 }
 
+.cover{
+    position: absolute;
+}
+
+.cover{
+    color:white;
+
+}
+
+.cover-title{
+    font-family: Raleway;
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 115%; /* 115px */
+    letter-spacing: 30px;
+    text-transform: uppercase;
+}
 
